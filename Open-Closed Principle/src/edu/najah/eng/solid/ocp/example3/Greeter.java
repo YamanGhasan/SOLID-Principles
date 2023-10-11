@@ -1,6 +1,6 @@
 package edu.najah.eng.solid.ocp.example3;
 
-public class Greeter {
+public class Greeter { 
     String formality;
 
     public String greet() {
